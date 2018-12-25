@@ -1,0 +1,3 @@
+Create .git repository for this directorium;
+Crate submodules for every sub-directorium;
+
